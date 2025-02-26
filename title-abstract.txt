@@ -1,5 +1,23 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+PropChain: Blockchain-Driven Real Estate Transactions
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Real estate transactions traditionally involve complex, time-consuming pro-
+cesses that require multiple intermediaries, extensive paperwork, and pro-
+longed settlement periods, resulting in increased costs and inefficiencies for
+all parties involved. Although previous attempts to digitize real estate trans-
+actions have improved document management and communication, they have
+failed to address the fundamental issues of trust, transparency, and the need
+for centralized intermediaries in the transaction process. Our research demon-
+strates how blockchain technology and smart contracts can transform prop-
+erty transactions by creating a decentralized, trustless system that automates
+property transfers between buyers and sellers while maintaining legal com-
+pliance and transaction security. The proof of concept implements common
+real estate actions in a distributed ledger, such as title search, property trans-
+fers, and property reviews. The system is also connected to sample banking
+and escrow services through back-end servers to simulate loan processing and
+escrow holding for properties. In addition, an authentication system is set up
+to allow an internal ERC-20 coin to be awarded for user actions, such as prop-
+erty verification. Finally, in order to showcase the viability of this system, the
+interface has been created in a way that is compatible for both computer and
+mobile users, reducing friction to using the service.
