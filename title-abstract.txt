@@ -1,5 +1,7 @@
 Title:
-PropChain: Blockchain-Driven Real Estate Transactions
+PropChain: A Blockchain-Based Framework for Automated
+Property Transfers and Smart Contract Integration
+
 
 Abstract:
 Real estate transactions traditionally involve complex, time-consuming pro-
